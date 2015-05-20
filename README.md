@@ -1,2 +1,0 @@
-# aulagit
-arquivo readme
